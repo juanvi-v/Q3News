@@ -1,4 +1,4 @@
 Q3News
 ======
 
-Simple CMS plug-in
+Simple CMS plug-in or so
